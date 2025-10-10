@@ -1,19 +1,19 @@
-## Proje Hakkında
-Kullanıcılar bu uygulama ile pizza ve içecek siparişi verebilir. 
-- Kayıtlı kullanıcılar giriş yaparak %30 indirimli sipariş oluşturabilir.  
-- Misafir kullanıcılar kayıt olmadan sipariş oluşturabilir.  
+PizzaSiparisSistemi
+C# ve Windows Forms kullanılarak geliştirilmiş pizza sipariş ve ödeme uygulaması.
 
-Siparişler, ödeme formunda özet olarak listelenir.
+## Pizza Sipariş Sistemi
+Kullanıcılar pizza boyutu, içecek ve ekstra malzemeleri seçebilir, adedini belirleyebilir ve siparişlerini özet ekranında görebilir. Kayıtlı kullanıcılar için %30 indirim uygulanır. Sistem, kayıtlı ve misafir kullanıcıları ayrı şekilde yönetir.
 
 ## Özellikler
-- Kullanıcı kaydı ve giriş
-- Misafir olarak sipariş oluşturma
-- Pizza ve içecek seçimi
-- Ekstra malzemeler ekleyebilme
-- Adet girişi ve sipariş ücreti hesaplama
+- Kullanıcı girişi ve geçici kayıt sistemi
+- Pizza boyutu seçimi: Küçük, Orta, Büyük
+- İçecek seçimi: Cola, Ayran, Ice Tea
+- Ekstra malzemeler: Sucuk, Sosis, Zeytin, Mantar, Peynir, Et
+- Pizza ve içecek adedi belirleme
 - Kayıtlı kullanıcılar için %30 indirim
-- Sipariş özetini ödeme formunda listeleme
-- Windows Forms ile kullanıcı dostu arayüz
+- Sipariş özeti ve ödeme ekranı
+- Temizle butonu ile formu sıfırlama
+- Kullanıcıya doğru / eksiksiz sipariş bilgisi gösterimi
 
 ## Teknolojiler
 - C# Windows Forms
