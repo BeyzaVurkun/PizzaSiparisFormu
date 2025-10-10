@@ -1,4 +1,4 @@
-Pizza Sipariş Sistemi
+## Pizza Sipariş Sistemi
 C# ve Windows Forms kullanılarak geliştirilmiş pizza sipariş ve ödeme uygulaması.
 Kullanıcılar pizza boyutu, içecek ve ekstra malzemeleri seçebilir, adedini belirleyebilir ve siparişlerini özet ekranında görebilir. Kayıtlı kullanıcılar için %30 indirim uygulanır. Sistem, kayıtlı ve misafir kullanıcıları ayrı şekilde yönetir.
 
