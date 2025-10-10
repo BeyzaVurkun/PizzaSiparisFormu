@@ -1,6 +1,3 @@
-# PizzaSiparisFormu
-C# Windows Forms ile yapılmış interaktif pizza sipariş formu.
-
 ## Proje Hakkında
 Kullanıcılar bu uygulama ile pizza ve içecek siparişi verebilir. 
 - Kayıtlı kullanıcılar giriş yaparak %30 indirimli sipariş oluşturabilir.  
